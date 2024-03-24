@@ -38,8 +38,6 @@ public class GetDetailsAssignment1 {
 		this.studentPercentage = studentPercentage;
 	}
     
-	
-
 	public String toString() {
 		return "GetDetailsAssignment1 [studentname=" + studentname + ", studentRollNo=" + studentRollNo
 				+ ", studentGrade=" + studentGrade + ", studentPercentage=" + studentPercentage + "]";
